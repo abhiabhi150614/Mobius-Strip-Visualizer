@@ -1,6 +1,7 @@
 # Mobius Strip Visualizer (https://abhishek-b-shetty-karkhana-io.streamlit.app/)
 ## screen recording drive link
-https://drive.google.com/file/d/1FqXu5aBemWNB93RAuQU2-HyOpt3KErP_/view?usp=sharing
+https://drive.google.com/file/d/1FqXu5aBemWNB93RAuQU2-HyOpt3KErP_/view?usp=sharing .
+
 An interactive 3D visualization and analysis tool for the Möbius strip, implemented in Python using Streamlit and Plotly.
 
 Below is a screenshot of the interactive Möbius strip visualizer in action:
